@@ -1,0 +1,1 @@
+This repository contains scripts, metadata and some results to facilitate reproduction of the main results of the manuscript “Phylogenetic study of long non-coding RNA NEAT1 and MALAT1 to infer structural-functional connection”.
